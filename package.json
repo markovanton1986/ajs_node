@@ -1,0 +1,19 @@
+{
+  "name": "@markovanton1986/ajs_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markovanton1986/ajs_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@markovanton1986/ajs1": "^1.0.0"
+  }
+}
